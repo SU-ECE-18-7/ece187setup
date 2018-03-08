@@ -1,7 +1,10 @@
 1. Install Git For Windows. Clone https://github.com/SU-ECE-18-7/ece187setup 
 
-1. Install Anaconda2. Make sure that the installer adds Anaconda to the system PATH and registers it as your default Python.
-	https://www.anaconda.com/download/
+1. Install Anaconda2.
+	Download 32 bit version: https://www.anaconda.com/download/ 
+	Make sure that the installer adds Anaconda to the system PATH
+	Make sure that the installer registers it as your default Python.
+	
 
 3. Install PyQt4. Make sure that the installer installs PyQt4 in your Anaconda directory.
 
